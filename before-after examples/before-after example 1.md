@@ -4,7 +4,7 @@ Author: "Ashna B. Janikeramudu"
 ## Initial Prompt
 
 ```
-Write a function to get weather data from the wttr.in API for a given location.
+We wttr.in API for a given location.
 ```
 
 ## Initial AI-Generated Code (Before)
