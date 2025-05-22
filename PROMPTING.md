@@ -1,20 +1,6 @@
 ---
 title: "Sample Intentional Prompting Journey"
-subtitle: "Weather Dashboard Project"
-format:
-  pdf:
-    toc: false
-    number-sections: false
-    colorlinks: true
-  docx:
-    toc: false
-    number-sections: false
-    highlight-style: github
-  html:
-    toc: true
-    toc-expand: 2
-    embed-resources: true
----
+
 
 This document demonstrates how a student might approach the Weather Dashboard project using intentional prompting techniques. It follows the 6-step programming methodology and showcases a variety of prompt types.
 
